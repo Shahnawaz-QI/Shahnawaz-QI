@@ -1,6 +1,6 @@
 ### Hi there!
 
-- 🔭 I’m currently working on .NET Core, ASP.NET Core, PostgreSQL, JavaScript, AWS
+- 🔭 I’m currently working on .NET Core, ASP.NET Core, Microservices, PostgreSQL, JavaScript, AWS
 - 🌱 I’m currently learning AWS, Golang, Blazor
 - ⚡ I'm particularly interested in Backends, Design Patterns, Distributed Systems, Microservice Architecture
 - 📫 How to reach me: 
