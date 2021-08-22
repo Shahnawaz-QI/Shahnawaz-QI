@@ -1,4 +1,4 @@
-### Hi there, Shahnawaz here! 👋
+### Hi there!
 
 - 🔭 I’m currently working on .NET Core, ASP.NET Core, PostgreSQL, JavaScript, AWS
 - 🌱 I’m currently learning AWS, Golang, Blazor
