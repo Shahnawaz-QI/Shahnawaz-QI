@@ -1,9 +1,11 @@
 ### Hi there, Shahnawaz here! 👋
 
-- 🔭 I’m currently working on .NET Core, ASP.NET Core (Web API, SignalR), PostgreSQL, JavaScript, AWS
+- 🔭 I’m currently working on .NET Core, ASP.NET Core, PostgreSQL, JavaScript, AWS
 - 🌱 I’m currently learning AWS, Golang, Blazor
-- 💬 Ask me about .NET Core, ASP.NET Core (MVC, Web API, SignalR), C#
-- ⚡ Fun fact: I'm particularly interested in Backends, Design Patterns, Distributed Systems, Microservice Architecture
+- ⚡ I'm particularly interested in Backends, Design Patterns, Distributed Systems, Microservice Architecture
+- 📫 How to reach me: 
+   - LinkedIn profile link: https://www.linkedin.com/in/findshahnawaz
+   - Medium profile link: https://findshahnawaz.medium.com
 
 <!--
 **Shahnawaz-QI/Shahnawaz-QI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Medium profile link: https://findshahnawaz.medium.com
