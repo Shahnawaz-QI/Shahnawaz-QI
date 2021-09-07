@@ -1,24 +1,13 @@
 ### Hi there!
 
 - 🔭 I’m currently working on .NET Core, ASP.NET Core, Microservices, PostgreSQL, JavaScript, AWS
-- 🌱 I’m currently learning AWS, Golang, Blazor
-- ⚡ I'm particularly interested in Backends, Design Patterns, Distributed Systems, Microservice Architecture
+- 🌱 Learning: AWS, Golang, Blazor
+- ⚡ I have particular interest in Backends, Design Patterns, Distributed Systems, Microservice Architecture
 - 📫 How to reach me: 
    - LinkedIn profile link: https://www.linkedin.com/in/findshahnawaz
    - Medium profile link: https://findshahnawaz.medium.com
 
-<!--
-**Shahnawaz-QI/Shahnawaz-QI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Statistics
+![Shahnawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahnawaz-QI&show_icons=true&theme=merko)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnawaz-QI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
